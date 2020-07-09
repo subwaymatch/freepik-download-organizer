@@ -1,0 +1,14 @@
+{
+  "name": "organize.js",
+  "version": "0.1.0",
+  "description": "Organize folders and files",
+  "main": "organize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
