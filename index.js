@@ -1,3 +1,6 @@
 const { organizeAssets } = require("./src/organize");
 
-organizeAssets("e:/test/downloads", "e:/test/organized");
+const srcPath = "e:/Freepik/downloads";
+const outputPath = "e:/Freepik/organized";
+
+organizeAssets(srcPath, outputPath);
