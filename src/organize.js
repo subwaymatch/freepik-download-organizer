@@ -16,8 +16,6 @@ async function organizeAssets(sourcePath, outputPath) {
     const resolvedSourcePath = path.resolve(sourcePath);
 
     try {
-        // Create output directory if not exists
-
         // Find and delete all license files
         glob.sync(path.join(resolvedSourcePath, "**/License*.txt")).forEach(
             (f) => {
