@@ -16,7 +16,7 @@ Input directory structore
     * 404.jpg
 ```
 
-Input directory structore
+Output directory structore
 ```
 - organized
   - person-illustration
