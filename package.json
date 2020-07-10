@@ -9,6 +9,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "glob": "^7.1.6"
+    "axios": "^0.19.2",
+    "config": "^3.3.1",
+    "glob": "^7.1.6",
+    "mkdirp": "^1.0.4",
+    "natural-orderby": "^2.0.3",
+    "rimraf": "^3.0.2"
   }
 }
