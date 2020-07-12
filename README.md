@@ -1,6 +1,26 @@
 # Freepik Downloaded Assets Organizer
 A node.js script to organize downloded files from Freepik
 
+## Usage
+
+Command Line
+```
+$ node index.js ../freepik/downloads ../freepik/organized
+```
+
+Output
+```
+   ___                        _            _
+  / _ \ _ __ __ _  __ _ _ __ (_)_______   (_)___
+ | | | | '__/ _` |/ _` | '_ \| |_  / _ \  | / __|
+ | |_| | | | (_| | (_| | | | | |/ /  __/_ | \__ \
+  \___/|_|  \__, |\__,_|_| |_|_/___\___(_)/ |___/
+            |___/                       |__/
+Source Directory: /Users/myuser/freepik/downloads
+Output Directory: /Users/myuser/freepik/organized
+
+```
+
 ## Directory structure
 
 Input directory structore
